@@ -13,6 +13,8 @@ div#contenu {
     width: 100%;
     height: 800px;
     background-color: #FFCC00;
+    color: blue;
+    font-size: 20px;
 }
 
 div#piedpage {
@@ -45,3 +47,4 @@ div#blocnews {
 	height:200px;
 	background-color:#FF3300;
 	}
+    

@@ -1,0 +1,28 @@
+/* Style pour les tableaux verts */
+.table-vert td {
+    color: green;
+    font-size: 15px;
+}
+
+/* Style pour le tableau bleu */
+.table-bleu td {
+    color: blue;
+    font-size: 15px;
+}
+
+/* Style pour les phrases entre les tableaux */
+.texte-rouge {
+    color: red;
+    font-size: 15px;
+}
+.table-bleu, td, tr, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.table-vert {
+    border: 2px solid green;
+    border-collapse: collapse;
+}
+body {
+    background-image: url("https://m.media-amazon.com/images/I/71TUiCxHupL.jpg");
+}
