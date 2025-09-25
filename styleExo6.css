@@ -1,16 +1,13 @@
-/* Style pour les tableaux verts */
+
 .table-vert td {
     color: green;
     font-size: 15px;
 }
 
-/* Style pour le tableau bleu */
 .table-bleu td {
     color: blue;
     font-size: 15px;
 }
-
-/* Style pour les phrases entre les tableaux */
 .texte-rouge {
     color: red;
     font-size: 15px;
@@ -25,4 +22,5 @@
 }
 body {
     background-image: url("https://m.media-amazon.com/images/I/71TUiCxHupL.jpg");
+    background-attachment: fixed;
 }
